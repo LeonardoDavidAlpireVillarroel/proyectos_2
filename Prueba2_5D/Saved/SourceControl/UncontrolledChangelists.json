@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/UEM/Proyectos II/Escena/Prueba2_5D/Content/Cristoph/cristoph_model.uasset",
+				"F:/UEM/Proyectos II/Escena/Prueba2_5D/Content/Cristoph/cristoph_model_PhysicsAsset.uasset",
+				"F:/UEM/Proyectos II/Escena/Prueba2_5D/Content/Cristoph/cristoph_model_Skeleton.uasset",
+				"F:/UEM/Proyectos II/Escena/Prueba2_5D/Content/Cristoph/unwrapChekcerShader.uasset",
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset",
