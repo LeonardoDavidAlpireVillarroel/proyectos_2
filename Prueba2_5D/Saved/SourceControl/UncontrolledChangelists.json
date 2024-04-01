@@ -5,9 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"F:/Proyectos Unreal/proyectos_2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
-=======
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/TS/S3NEIURXGXFJWYWVX3RYDG.uasset",
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
@@ -253,7 +250,6 @@
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
->>>>>>> Joaquin
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset",
@@ -268,29 +264,6 @@
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset",
-<<<<<<< HEAD
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/TS/S3NEIURXGXFJWYWVX3RYDG.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/KO/YFX6KNL560GDJQ1D7C9RSB.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/AC/SV8R2FLRHQO2U5RPLVO2ZH.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/80/JVBUQOJRJ6DYVO50M5KMBZ.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/8O/T4VGCLRPTKKMZATMZH79TZ.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/5Y/CK70K8Z59FOFUAROUAHGPC.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6K/EKLZA1K0I8LS7J3REHWQZF.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/4F/0AEW1MVVEVPDXT7I8Q285Z.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/S2/B9TXPX7YQSHLT5Z280ZQ78.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/ThirdPerson/Blueprints/Bp_CameraManager.uasset"
-=======
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/ThirdPerson/Blueprints/NewBlueprint.uasset",
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QL/QEBJA4LT8ER0UW00YRJNHA.uasset",
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FG/FZRCHHUBH9YM273HCNL3HD.uasset",
@@ -307,7 +280,6 @@
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/AC/SV8R2FLRHQO2U5RPLVO2ZH.uasset",
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/6Z/8K026G3M3GO97LYZG9CHLK.uasset",
 				"C:/Users/joaqu/Desktop/Proyecto2/Prueba2_5D/Content/ThirdPerson/Blueprints/BP_CameraLine.uasset"
->>>>>>> Joaquin
 			]
 		}
 	]
