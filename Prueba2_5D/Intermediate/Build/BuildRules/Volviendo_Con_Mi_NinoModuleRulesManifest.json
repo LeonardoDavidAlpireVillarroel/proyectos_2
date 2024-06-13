@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\joaqu\\Desktop\\proyectos_2\\Prueba2_5D\\Intermediate\\Source\\Volviendo_Con_Mi_Nino.Build.cs",
+		"C:\\Users\\joaqu\\Desktop\\proyectos_2\\Prueba2_5D\\Intermediate\\Source\\Volviendo_Con_Mi_Nino.Target.cs",
+		"C:\\Users\\joaqu\\Desktop\\proyectos_2\\Prueba2_5D\\Intermediate\\Source\\Volviendo_Con_Mi_NinoClient.Target.cs",
+		"C:\\Users\\joaqu\\Desktop\\proyectos_2\\Prueba2_5D\\Intermediate\\Source\\Volviendo_Con_Mi_NinoEditor.Target.cs",
+		"C:\\Users\\joaqu\\Desktop\\proyectos_2\\Prueba2_5D\\Intermediate\\Source\\Volviendo_Con_Mi_NinoServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

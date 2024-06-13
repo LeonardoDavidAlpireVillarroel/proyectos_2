@@ -1,0 +1,3 @@
+// PCH for Runtime/Core/Public/CoreSharedPCH.h
+#include "C:/Users/joaqu/Desktop/proyectos_2/Prueba2_5D/Intermediate/Build/Win64/x64/Volviendo_Con_Mi_Nino/Shipping/Core/SharedDefinitions.Core.RTTI.Exceptions.Cpp20.h"
+#include "Runtime/Core/Public/CoreSharedPCH.h"

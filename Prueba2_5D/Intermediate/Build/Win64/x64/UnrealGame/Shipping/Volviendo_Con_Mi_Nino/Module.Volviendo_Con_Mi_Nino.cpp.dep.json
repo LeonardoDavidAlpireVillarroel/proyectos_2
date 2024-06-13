@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\joaqu\\desktop\\proyectos_2\\prueba2_5d\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\volviendo_con_mi_nino\\module.volviendo_con_mi_nino.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\joaqu\\desktop\\proyectos_2\\prueba2_5d\\intermediate\\build\\win64\\x64\\volviendo_con_mi_nino\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\joaqu\\desktop\\proyectos_2\\prueba2_5d\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\volviendo_con_mi_nino\\definitions.volviendo_con_mi_nino.h",
+            "c:\\users\\joaqu\\desktop\\proyectos_2\\prueba2_5d\\intermediate\\source\\volviendo_con_mi_nino.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
